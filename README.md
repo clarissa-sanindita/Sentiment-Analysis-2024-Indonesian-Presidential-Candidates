@@ -36,18 +36,22 @@ We applied various methods to analyze sentiment related to presidential candidat
 
 ### Training and Validation Curves for BERT Model
 ![APR Plot](image/Bert.png)
+
 Below are the training loss and accuracy plots for the BERT model.
 
 ### Confusion Matrix for Decision Tree Model
 ![APR Plot](image/DT.png)
+
 Below is the confusion matrix for the Decision Tree model.
 
 ### Training and Validation Curves for LSTM Model
 ![APR Plot](image/LSTM.png)
+
 Below are the training accuracy and loss plots for the LSTM model.
 
 ### Confusion Matrix for Random Forest Model
 ![APR Plot](image/RF.png)
+
 Below is the confusion matrix for the Random Forest model.
 
 ## Conclusion
@@ -67,5 +71,7 @@ Below is the confusion matrix for the Random Forest model.
 
 ## Contributing
 Clarissa Sanindita R
+
 Alviatul Nazila
+
 Fildzah Latifah
